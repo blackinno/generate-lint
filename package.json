@@ -1,6 +1,6 @@
 {
   "name": "generate-lint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "default generate linter and prettier",
   "main": "index.js",
   "bin": "src/index.js",
@@ -12,8 +12,17 @@
     "url": "git+https://github.com/blackinno/generate-lint.git"
   },
   "keywords": [
+    "lint",
+    "format",
+    "rule",
     "eslint",
-    "prettier"
+    "default lint",
+    "prettier",
+    "javascript",
+    "typescript",
+    "js",
+    "ts",
+    "code"
   ],
   "author": "Thotsaphon Ben Ruthamnong",
   "license": "MIT",
