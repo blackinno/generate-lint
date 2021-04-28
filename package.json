@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/blackinno/generate-lint#readme",
   "dependencies": {
-    "inquirer": "^8.0.0",
-    "npm": "^7.11.1"
+    "inquirer": "^8.0.0"
   }
 }
