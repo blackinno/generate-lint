@@ -1,0 +1,27 @@
+{
+  "name": "generate-lint",
+  "version": "1.0.0",
+  "description": "default generate linter and prettier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackinno/generate-lint.git"
+  },
+  "keywords": [
+    "eslint",
+    "prettier"
+  ],
+  "author": "Thotsaphon Ben Ruthamnong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackinno/generate-lint/issues"
+  },
+  "homepage": "https://github.com/blackinno/generate-lint#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "npm": "^7.11.1"
+  }
+}
